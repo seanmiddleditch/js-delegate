@@ -1,6 +1,28 @@
 {
 	"name": "delegate",
+	"licences": [
+		{
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/MIT"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "Sean Middleditch",
+			"email": "sean@seanmiddleditch.com",
+			"web": "http://seanmiddleditch.com"
+		}
+	],
+	"version": "1.0.0",
 	"description": "JavaScript method delegates with currying support",
+	"main": "delegate.js",
+	"bugs": "https://github.com/seanmiddleditch/js-delegate/issues",
+	"repositories": [
+		{
+			"type": "git", 
+			"url": "http://github.com/seanmiddleditch/js-delegate.git"
+		}
+	],
 	"author": "Sean Middleditch <sean@seanmiddleditch.com>",
-	"engine": "node 0.10.0"
+	"implements": [ "CommonJS/Modules/1.0", "CommonJS/JSGI/1.0" ]
 }
