@@ -1,0 +1,6 @@
+{
+	"name": "delegate",
+	"description": "JavaScript method delegates with currying support",
+	"author": "Sean Middleditch <sean@seanmiddleditch.com>",
+	"engine": "node 0.10.0"
+}
